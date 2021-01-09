@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "FastBridge",
+  "mainClass": "at.lukas.eagle.Mod",
+  "description": "FastBridge Addon",
+  "version": 1,
+  "author": "Lukas",
+  "category": 2,
+  "icon": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/91/Cut_Sandstone_JE5_BE2.png/revision/latest/scale-to-width-down/150?cb=20200307234040"
+}
